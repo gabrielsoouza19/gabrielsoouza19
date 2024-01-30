@@ -1,5 +1,13 @@
 
-### HI! I'm Gabriel 💻
+dev = {
+    'name': 'Gabriel',
+    'age': 20,
+    'nacionality': 'Brazil',
+    'work': 'FullStack in progress'
+}
+
+print(f"Hi! I'm {dev['name']}, I'm {dev['age']} years old and I'm from {dev['nacionality']}!")
+print(f"I'm currently studying to be a {dev['work']}")
 
 <a href="https://instagram.com/gabrielsoouza19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="5581988842629" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
