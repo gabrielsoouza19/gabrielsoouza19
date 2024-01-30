@@ -1,4 +1,5 @@
-### Hi! I'm Gabriel 
+
+### HI! I'm Gabriel 💻
 
 <a href="https://instagram.com/gabrielsoouza19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="5581988842629" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
@@ -6,7 +7,11 @@
   <a href="gabrielsoouza19" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsoouza19_icons=true&theme=dracula&count_private=true)
+<div align="center">
+  <a href="https://github.com/gabrielsoouza19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoouza19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoouza19&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## technologies that I use in my daily life and that I am still learning
 
